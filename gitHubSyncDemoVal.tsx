@@ -4,3 +4,5 @@
 export default async function(req: Request): Promise<Response> {
   return Response.json({ ok: true });
 }
+
+// This comment was added on GitHub
